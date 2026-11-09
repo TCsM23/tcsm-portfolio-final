@@ -1,4 +1,3 @@
-
  SALUTATIONS!!!
 =====================================================================
  TCsM PORTFOLIO  (YJR / TCsM)
@@ -15,10 +14,10 @@ The pages are .php files, so open them through a xampp.
 - Running locally
 1. Download and install xampp v3.3.0 in https://apachefriends.org and run it
 2. Make sure you start Apache
-3. Download the ZIP files in https://github.com/TCsM23/tcsm-portfolio-final.git  
+3. Download the ZIP files in https://github.com/TCsM23/tcsm-portfolio-final 
 4. Start Apache in XAMPP
 5. Copy the project folder into C:\xampp\htdocs\
-6. Open:  http://localhost/tcsm-portfolio-final/
+6. Open:  http://localhost/tcsm-portfolio-final
 
 - Running live
 1. You need an internet connection
